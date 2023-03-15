@@ -20,10 +20,4 @@
 10. Make a list of popular python modules that can be installed with pip and how to install them.
 
 
-def covid_inf(D:int, C:int) -> float:
-    return C*2**D
-if __name__ == '__main__':
-    D = int(input("Enter D number of days: "))
-    C = int(input("Enter C number of initial people: "))
-    infected = covid_inf(D, C)
-    print(infected)
+
