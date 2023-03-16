@@ -3,7 +3,7 @@
 
 2. Calculate the perimeter and area of the the figure.
 
-3.  Calculate the meat in kilograms of N chickens, M rooster and K chicks.
+3.  Calculate the meat in kilograms of N chickens, M rooster and K chicks, if each weighs 6k, 7k and 1k respectivily.
 
 4. Calcultae the diference if I have to buy P breads of $300, M milk bags of 3300 and H eggs of 350 each one, and I am given B pesos. 
 
