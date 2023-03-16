@@ -17,7 +17,30 @@
 
 9. Research what pip is in python and how it works.
 
+    PIP is a package manager for python modules or packages. The PIP install package command looks for the package that was asked for in PyPi and installs it. PyPi is     the Python Package Index, which is an online repository for public packages.
+
 10. Make a list of popular python modules that can be installed with pip and how to install them.
 
+    Those are some of the most popular python libraries:
 
+    - TensorFlow
+    - Scikit-Learn
+    - Numpy
+    - Keras
+    - PyTorch
+    - LightGBM
+    - Eli5
+    - SciPy
+    - Theano
+    - Pandas
+
+    To install a package on windows type the following:
+    ```bash
+    pip install Numpy # Or any other package.
+    ```
+
+    To install a package on Linux type:
+    ```bash
+    Not finishes jet SciPy  # Or any other package.
+    ```
 
