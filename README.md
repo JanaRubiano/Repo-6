@@ -1,7 +1,7 @@
 # Repo-6
 1. Calculate the surface area and volume of the the figure.
 
-![68747470733a2f2f692e706f7374696d672e63632f465276436d7078782f696d6167652e706e67](https://user-images.githubusercontent.com/124604730/226951544-7b19d7f8-3279-4f05-a304-cad08b980b79.png = 250x250))
+![68747470733a2f2f692e706f7374696d672e63632f465276436d7078782f696d6167652e706e67](https://user-images.githubusercontent.com/124604730/226951544-7b19d7f8-3279-4f05-a304-cad08b980b79.png = 250x250)
 
 2. Calculate the perimeter and area of the the figure.
 
