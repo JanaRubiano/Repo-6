@@ -20,7 +20,9 @@
     PIP is a package manager for python modules or packages. The PIP install package command looks for the package that was asked for in PyPi and installs it. PyPi       is the Python Package Index, which is an online repository for public packages.
 
 10. Make a list of popular python modules that can be installed with pip and how to install them.
-
+    
+    First of all, a module is a file with Python code, a library is a collection of modules and a package is a library that can be installed with a package manager.
+    
     Those are some of the most popular python libraries (or packages):
 
     - TensorFlow
@@ -33,6 +35,16 @@
     - SciPy
     - Theano
     - Pandas
+    
+    There are also built_in python modules, some are:
+    - math
+    - collections
+    - datetime
+    - random
+    - sys
+    - logging
+    - time
+    - os
 
     To install a package from the command line, type the following:
     ```bash
