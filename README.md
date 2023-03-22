@@ -1,7 +1,13 @@
 # Repo-6
 1. Calculate the surface area and volume of the the figure.
 
+![image](https://user-images.githubusercontent.com/124604730/226951158-4278ce96-d157-4e10-a107-8b72afafa2b4.png)
+
+
 2. Calculate the perimeter and area of the the figure.
+
+![image](https://user-images.githubusercontent.com/124604730/226951253-3e107b89-8e6b-4a37-86ed-4372b1a6e430.png)
+
 
 3.  Calculate the meat in kilograms of N chickens, M rooster and K chicks, if each weighs 6k, 7k and 1k respectivily.
 
